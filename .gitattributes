@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test page</title>
+</head>
+<body>
+	<h1> hey my name's <b>joe</b> </h1>
+	<p> and i do joe </p>
+	<a href="https://youtube.com" target="_blank" title="yeah click it">click me i am the click to the <b>biggest</b> video library</a> <br>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr5wT7rfkjkGvNeqgXjBmarC5ZNoZs-H2uMpML8O7Q4F9W-IlUQibBT6IPqyvX45NOgw&usqp=CAU">
+<p>my name is: <br>
+abdul mujeeb</p>
+</body>
+</html>
